@@ -1,0 +1,372 @@
+.banner {
+    padding-right: 240px;
+    padding-left: 240px;
+    height: 850px;
+    width: 1920;
+
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.baner .baner-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.baner .baner-describe {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.baner .flower-10 {
+    width: 635px;
+    height: 800px;
+    padding-left: 240px;
+
+}
+
+.btn-primary {
+    background-color: #E55473;
+    color: #FFFFFF;
+    border: none;
+    padding: 20px 43px;
+    width: 177px;
+    height: 64px;
+    border-radius: 8px;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+/* second part */
+.featured .featured-title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.featured .featured-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+
+/* third part */
+
+
+.collection .collection-flower-6 {
+    margin: 50px 50px 50px 50px;
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+
+.collection .collection-flower-5 {
+    margin: 50px 50px 50px 50px;
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+
+}
+
+.collection .collection-flower-7 {
+    margin: 50px 50px 50px 50px;
+    padding: auto;
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+
+
+
+}
+
+.collection {
+    margin: 0 auto;
+    padding-left: 240px;
+    padding-right: 240px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+
+}
+
+.flower-name {
+
+    padding-left: 240px;
+    padding-right: 240px;
+
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.flower-name .pi {
+    width: 181px;
+    height: 35px;
+}
+
+.flower-name .nk {
+    margin-left: 500px;
+    width: 181px;
+    height: 35px;
+    padding-left: 50px;
+}
+
+.flower-name .flo {
+    margin-right: 150px;
+    padding-left: 570px;
+}
+
+/* third part */
+.help {
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin-top: 240px;
+    margin-right: 240px;
+    margin-left: 240px;
+
+
+
+
+}
+
+.help .help-line {
+    /* border-radius: 8px; 
+    background: rgba(39, 39, 39, 0.05);
+    margin-top: 240px;
+    margin-right: 240px;
+    margin-left: 240px;*/
+    width: 1440px;
+    height: 320px;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.help .help-line #f57 {
+    height: 88px;
+    width: 88px;
+
+}
+
+.help .help-line #f58 {
+    padding: 356px;
+}
+
+.help .help-line #f59 {
+
+    padding-left: 371px;
+}
+
+#collect {
+    width: 372px;
+    height: 35;
+}
+
+.help .help-line-name {
+    padding-bottom: 87px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+/* part 5 */
+.bannner {
+    margin-top: 250px;
+    padding-right: 240px;
+    padding-left: 240px;
+    height: 850px;
+    width: 1920;
+
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.bannner .bannner-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.bannner .bannner-describe {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.bannner .flower-8 {
+    width: 635px;
+    height: 800px;
+    padding-left: 240px;
+
+}
+
+#off {
+    color: #E55473;
+}
+
+.butn-primary {
+    background-color: #E55473;
+    color: #FFFFFF;
+    border: none;
+    margin-left: 100px;
+    padding: 20px 43px;
+    width: 177px;
+    height: 64px;
+    border-radius: 8px;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+/* part 7 */
+.flower-types {
+    display: flex;
+    margin: 240px;
+
+    padding left: 24 px;
+    justify-content: space-between;
+
+}
+
+/* part8 */
+.latest-deals .em-sub .subscribe {
+    background-color: #E55473;
+    color: #FFFFFF;
+    border: none;
+    padding: 20px 43px;
+    width: 177px;
+    height: 64px;
+    border-radius: 8px;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.latest-deals .deal {
+
+
+    padding-top: 40px;
+    padding-left: 540px;
+
+
+}
+
+.latest-deals .deal #cupon {
+    padding-top: 186px;
+    padding-left: 604px;
+}
+
+.latest-deals {
+    background-image: url('../Asset/ghada.png');
+    margin : 200px;
+    width: 1440px;
+    height: 449px;
+    border-radius: 8px;
+    padding-left: 300px;
+    ju
+    
+
+
+
+}
+
+.latest-deals .subscribe {
+    background-color: #E55473;
+    color: #FFFFFF;
+    border: none;
+    margin-left: 100px;
+    padding: 20px 43px;
+    width: 200px;
+    height: 70px;
+    border-radius: 8px;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.latest-deals .em-sub {
+    margin-left: 200px;
+    align-items: center;
+    justify-content: center;
+    padding left: 400px;
+}
+
+.latest-deals .em-sub #id {
+    width: 50px;
+}
+
+/* footer */
+.footer {
+    background-color: black;
+    color: #FFF ;
+    width: 1922px;
+    height: 449px;
+    align-items: center;
+
+    padding-left: 500px;
+    margin-top: 200px;
+    padding-top: 128px;
+
+}
+.footer .flower{
+    color: #E55473;
+}
+.footer #fls{
+    margin left:  100px;
+    padding-left: 200px;
+    font-size: 48px;
+}
+.footer #copy{
+    padding-left: 200px;
+    font-size: 18px;
+}
